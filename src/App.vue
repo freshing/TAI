@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>Hello World!</h1>
+    <h1>TAI aplication</h1>
   </div>
 </template>
